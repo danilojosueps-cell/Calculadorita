@@ -1,5 +1,5 @@
 ## CALCULADORA - VERSIÓN 2
-# Autor(a): Danilo Peña
+# Autor(a): Andy Chancahuaña
 # ===========================================
 print("CALCULADORA")
 
